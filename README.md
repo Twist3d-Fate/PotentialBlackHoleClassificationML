@@ -8,4 +8,5 @@ ML project comparing performance of multiple models on potential black hole clas
 4) More Heatmaps/Matrix Visuals
 5) Revise Text Descriptions (More Concise)
 6) Hyperparameter Tuning (Gridsearch/CalibratedClassifierCV)
-7) Add More Model Performance Visualizations/Indicators (Validation Curves, Feature Importance, ROC/AUC, etc.) 
+7) Add More Model Performance Visualizations/Indicators (Validation Curves, Feature Importance, ROC/AUC, etc.)
+8) Implement Neural Network(ANN, maybe CNN)

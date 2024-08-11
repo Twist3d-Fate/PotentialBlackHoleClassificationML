@@ -6,4 +6,4 @@ ML project comparing performance of multiple models on potential black hole clas
 2) Create Results Table
 3) Improve Confusion Matrix Visual 
 4) Hyperparameter Tuning (Gridsearch/CalibratedClassifierCV)
-5) Add More Model Performance Visualizations
+5) Add More Model Performance Visualizations/Indicators (Validation Curves, Feature Importance, ROC/AUC, etc.) 
